@@ -37,7 +37,7 @@ The final **hybrid model** achieved:
 ## Team Members
 
 - [Fatimah Alsaihati]() 
-- [Razan Almadan]()  
+- [Razan Almadan](https://www.linkedin.com/in/razan-almadn-987480276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Sarah Alshaikhmohamed](https://www.linkedin.com/in/sarah-alshaikhmohamed-ab20a9252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - [Maram Almomen]()  
 - [Walaa Alhuwaider]()  
