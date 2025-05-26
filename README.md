@@ -15,7 +15,7 @@ This work demonstrates how combining multiple deep learning architectures can pr
 
 ## Results
 
-The fiinal **hybrid model** achieved:
+The final **hybrid model** achieved:
 
 | Metric         | Score       |
 |----------------|-------------|
@@ -52,11 +52,15 @@ Instructor: Dr. Wadha Al Mattar
 1. Clone the repo:
    ```bash
    git clone https://github.com/YOUR_USERNAME/hybrid-skin-disease-classifier.git
+   ```
+   ```bash
    cd hybrid-skin-disease-classifier
+   ```
 
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
+    ```
 
 3. Download the dataset:
     - Visit HAM10000 on Kaggle
@@ -65,6 +69,7 @@ Instructor: Dr. Wadha Al Mattar
 4. Run the final notebook:
     ```bash
     jupyter notebook notebooks/hybrid_final.ipynb
+    ```
 
 ---
 
