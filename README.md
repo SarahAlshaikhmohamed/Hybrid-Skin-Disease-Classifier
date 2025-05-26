@@ -40,8 +40,8 @@ The final **hybrid model** achieved:
 - [Razan Almadan](https://www.linkedin.com/in/razan-almadn-987480276?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - [Sarah Alshaikhmohamed](https://www.linkedin.com/in/sarah-alshaikhmohamed-ab20a9252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 - [Maram Almomen]()  
-- [Walaa Alhuwaider]()  
-- [Zainab Al Mousa]() 
+- [Walaa Alhuwaider](https://www.linkedin.com/in/walaa-alhuwaider-a94224320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- [Zainab Al Mousa](https://www.linkedin.com/in/zainab-al-mousa-b27497307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 Instructor: Dr. Wadha Al Mattar
 
